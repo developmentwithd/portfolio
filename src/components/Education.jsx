@@ -3,16 +3,16 @@ import React from 'react'
 const Education = () => {
   const educationData = [
     {
-      degree: "Bachelor of Technology in Computer Science",
-      institution: "Your University Name",
-      year: "2020 - 2024",
-      description: "Relevant coursework: Data Structures, Algorithms, Database Management Systems, Web Development, Machine Learning"
+      degree: "Master of computer science (pursuing)",
+      institution: "MIT Alandi",
+      year: "2023 - 2025",
+      description: "Specialized in Computer science"
     },
     {
-      degree: "Higher Secondary Education",
-      institution: "Your School Name",
-      year: "2018 - 2020",
-      description: "Specialized in Science and Mathematics"
+      degree: "Bachelor of Computer Science",
+      institution: "BPHE society ahmednagar college ",
+      year: "2020 - 2023",
+      description: "Relevant coursework: Data Structures, Algorithms, Database Management Systems, Web Development, Machine Learning"
     }
   ]
 
