@@ -3,7 +3,7 @@ const Footer = () => {
       <footer className="footer">
         <div className="social">
           <a href="#"><i className="bx bxl-facebook-circle"></i></a>
-          <a href="https://www.linkedin.com/in/dhanshree-ahire-a1030a243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="bx bxl-linkedin-square"></i></a>
+          <a href="https://www.linkedin.com/in/dhanshree-ahire-a1030a243"><i className="bx bxl-linkedin-square"></i></a>
           <a href="#"><i className="bx bxl-twitter"></i></a>
           <a href="#"><i className="bx bxl-instagram-alt"></i></a>
           <a href="https://github.com/dhanshreeahire25"><i className="bx bxl-github"></i></a>
